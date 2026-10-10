@@ -6,7 +6,7 @@
 
 这份材料包包含可在线查看的产品成果、课程项目 PDF、毕业研究及演示文稿。下文注明了我在各项目中的职责，便于区分个人贡献与小组整体成果。
 
-> PDF 附件与完整 ZIP 正在整理上传。
+[下载完整作品材料包（ZIP）](https://github.com/vcgsor/portfolio/releases/download/v1.0/Junping-Xu-Portfolio.zip)
 
 ## 建议阅读顺序
 
@@ -55,7 +55,7 @@
 
 其中营销执行计划与预算为课程方案，不代表品牌实际执行结果。
 
-附件：花知晓 AI 内容生成工作流（附件正在上传）
+附件：[花知晓 AI 内容生成工作流](https://github.com/vcgsor/portfolio/releases/download/v1.0/flowerknows-ai-workflow.pdf)
 
 ## 04｜数据分析与代码实践
 
@@ -69,7 +69,7 @@
 
 **数据说明：项目使用 300 个 AI 模拟受访者进行分析，属于模拟数据方法实践，不代表真实消费者调研或真实市场验证。**
 
-附件：喜茶新品偏好与定价分析（附件正在上传）
+附件：[喜茶新品偏好与定价分析](https://github.com/vcgsor/portfolio/releases/download/v1.0/heytea-analysis.pdf)
 
 ### 游戏市场表现分析
 
@@ -79,7 +79,7 @@
 
 承担项目代码实现工作，支持团队探索游戏特征与市场表现之间的关系。附件呈现团队整体研究框架、分析方法与结果。
 
-附件：游戏市场表现分析（附件正在上传）
+附件：[游戏市场表现分析](https://github.com/vcgsor/portfolio/releases/download/v1.0/game-market-analysis.pdf)
 
 ### 在线零售：客户分层与个性化推荐
 
@@ -93,8 +93,8 @@
 
 附件：
 
-- 零售客户分层与推荐演示文稿（附件正在上传）
-- 零售客户分层与推荐项目报告（附件正在上传）
+- [零售客户分层与推荐演示文稿](https://github.com/vcgsor/portfolio/releases/download/v1.0/retail-presentation.pdf)
+- [零售客户分层与推荐项目报告](https://github.com/vcgsor/portfolio/releases/download/v1.0/retail-report.pdf)
 
 ## 05｜毕业研究：强化学习俄罗斯方块 Agent
 
@@ -106,7 +106,7 @@
 
 附件保留原始毕业论文；当前代码版本的 Double DQN 选择与评估实现仍需进一步复核，因此本导览使用“强化学习 Agent”概括项目。
 
-附件：强化学习俄罗斯方块 Agent 毕业论文（附件正在上传）
+附件：[强化学习俄罗斯方块 Agent 毕业论文](https://github.com/vcgsor/portfolio/releases/download/v1.0/tetris-thesis.pdf)
 
 ## 06｜PPT 能力展示
 
@@ -114,13 +114,13 @@
 
 围绕 AI 在音乐创作、产业与教育中的应用组织内容，展示跨领域信息梳理、章节结构及视觉表达。
 
-附件：音乐与人工智能演示文稿（附件正在上传）
+附件：[音乐与人工智能演示文稿](https://github.com/vcgsor/portfolio/releases/download/v1.0/music-ai-presentation.pdf)
 
 ### 功利主义与电车难题
 
 从伦理理论介绍进入情境案例与讨论，展示抽象概念解释、演示叙事与讨论环节设计。
 
-附件：功利主义与电车难题演示文稿（附件正在上传）
+附件：[功利主义与电车难题演示文稿](https://github.com/vcgsor/portfolio/releases/download/v1.0/trolley-presentation.pdf)
 
 两份演示文稿均以 PDF 形式提供，保留课程作品的原始时间背景与版式。
 
